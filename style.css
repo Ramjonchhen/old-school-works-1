@@ -1,0 +1,91 @@
+body{
+margin:0px;
+
+}
+
+#wrapper
+{
+margin:0px;
+}
+
+#top{
+height:123px;
+background:#36373a;
+
+}
+
+#banner
+{
+height:281px;
+background:#75a447;
+}
+
+#main
+{
+margin-left:49px;
+margin-bottom:59px;
+margin-right:49px;
+margin-top:30px;
+height:751px;
+background-color:#ffffff;
+color:#666666
+}
+
+#bottom
+{
+height:61px;
+background:#36373a;
+}
+
+a
+{
+text-decoration:none;
+color:#8e9a02;
+}
+
+#top a.logo
+{
+	margin-top:20px;
+              margin-left:39px;
+             margin-bottom:0px;
+           margin-right:0px;
+	background:url(images/logo.png) no-repeat;
+	width:262px;
+	height:60px;
+	float:left;
+}
+
+#top a
+{
+color:#b3b3b3
+}
+
+#aa
+{
+height:86px;
+}
+
+#bb
+{
+height:37px;
+background-color:#36373a;
+color:#ffffff;
+}
+
+#bb li
+{
+float:left;
+list-style:none;
+padding:0 23px 0 0;
+}
+
+#bb a.active
+{
+color:7c860a;
+}
+
+#aa a.wifi
+{
+text-decoration:none;
+}
+
